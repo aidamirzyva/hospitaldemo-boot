@@ -1,0 +1,20 @@
+Arrayi xml-de tesviri bu sekildedi
+<patientList>
+<patient>
+   <id>1</id>
+   <name>Aida</name>
+   <surname>Mirzayeva</surname>
+   <address>Baki</address>
+ </patient>
+ <patient>
+    <id>2</id>
+    <name>Naile</name>
+    <surname>Macidova</surname>
+    <address>Baki</address>
+  </patient>
+  </patientList>         Bura qqeder indi JSON baxaq
+
+  {"id": 1,"name":"Aida","Surname":Mirzayeva","age":23},
+  {"id": 2,"name":"Naila","Surname":Macidova","age":20},
+
+
